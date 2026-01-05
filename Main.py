@@ -189,3 +189,4 @@ async def criador(ctx):
 # INICIAR BOT
 # ======================
 bot.run(DISCORD_BOT_TOKEN)
+
